@@ -1,0 +1,27 @@
+RUANITO ORÇAMENTOS – APLICATIVO PARA CELULAR (Android e iPhone)
+
+1) PUBLICAR (uma vez só, cerca de 5 minutos, grátis)
+   a. No computador, descompacte este arquivo .zip. Vai aparecer a pasta "ruanito-app".
+   b. Acesse https://app.netlify.com/drop e crie uma conta gratuita (pode entrar com o Google).
+   c. Arraste a pasta "ruanito-app" inteira para a área "Drag and drop".
+   d. Em segundos aparece um endereço do tipo https://nome-qualquer.netlify.app
+      (você pode trocar o nome em Site configuration > Change site name, ex.: ruanito-orcamentos).
+
+2) INSTALAR NO CELULAR
+   ANDROID (Chrome): abra o endereço > toque em "Instalar" no aviso roxo
+                     (ou menu ⋮ > "Instalar app" / "Adicionar à tela inicial").
+   iPHONE (Safari):  abra o endereço no SAFARI > botão Compartilhar (quadrado com seta)
+                     > "Adicionar à Tela de Início" > Adicionar.
+   O ícone da Ruanito aparece na tela inicial e o app abre em tela cheia, mesmo sem internet.
+
+3) ATUALIZAR O APP NO FUTURO
+   No painel do Netlify (Deploys), arraste a pasta nova. Os celulares se atualizam
+   sozinhos e mostram "Nova versão disponível".
+
+IMPORTANTE
+ - Cada aparelho guarda os próprios documentos. Para levar os dados do computador
+   para o celular (ou o contrário): Backup > Baixar backup completo em um aparelho,
+   e Backup > Restaurar no outro (envie o arquivo .json para você pelo WhatsApp/e-mail).
+ - Faça backups regulares. Com o app instalado na tela inicial, o iPhone não apaga os dados.
+ - Não compartilhe o endereço com quem não deve acessar: cada pessoa que abrir terá o
+   próprio app vazio (os dados NÃO ficam na internet, só no aparelho).
